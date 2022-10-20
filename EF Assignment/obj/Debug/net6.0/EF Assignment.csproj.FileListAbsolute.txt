@@ -1,0 +1,58 @@
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\EF Assignment.exe
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\EF Assignment.deps.json
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\EF Assignment.runtimeconfig.json
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\EF Assignment.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\EF Assignment.pdb
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.csproj.AssemblyReference.cache
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.AssemblyInfoInputs.cache
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.AssemblyInfo.cs
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.csproj.CoreCompileInputs.cache
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.csproj.CopyComplete
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\refint\EF Assignment.dll
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.pdb
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\EF Assignment.genruntimeconfig.cache
+C:\Users\arnar\source\repos\EF Assignment\EF Assignment\obj\Debug\net6.0\ref\EF Assignment.dll
